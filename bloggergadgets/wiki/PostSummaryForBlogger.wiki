@@ -1,0 +1,23 @@
+#labels Blogger
+#Post Summaries with Thumbnails for Blogger
+
+= Introduction =
+
+Summarized the post and puts up a thumbnail by the side of the summary.
+
+
+== Details & Usage ==
+
+Expects the following variables to be defined
+
+_summary_noimg = 230;_
+
+_summary_img = 140;_
+
+_img_thumb_height = 100;_
+
+_img_thumb_width = 100;_
+
+Once these are defined, you can call the method
+
+*createSummaryAndThumb(division_element_id)* to summarize the content of the div with id "division_element_id"

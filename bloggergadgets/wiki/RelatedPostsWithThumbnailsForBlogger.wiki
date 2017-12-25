@@ -1,0 +1,12 @@
+#labels Blogger
+#Related Posts With Thumbnails For Blogger
+
+= Introduction =
+
+Related Posts With Thumbnails JavaScript
+
+== Usage ==
+
+Instructions on using this script can be found at http://www.bloggerplugins.org/2009/08/related-posts-thumbnails-blogger-widget.html
+
+The Script powering the Widget can be found at http://bloggergadgets.googlecode.com/svn/trunk/related-posts-with-thumbnails.js and the compressed version can be found at http://bloggergadgets.googlecode.com/files/related_posts_with_thumbnails_min.js

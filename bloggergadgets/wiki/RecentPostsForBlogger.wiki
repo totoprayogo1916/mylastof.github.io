@@ -1,0 +1,16 @@
+#labels Blogger
+#Recent Posts for Blogger
+
+= Introduction =
+
+Recent Posts JavaScript
+
+
+
+== Usage ==
+
+Instructions on using this script can be found at http://www.bloggerplugins.org/2011/09/recent-posts-thumbnails-blogger-widget.html
+
+The Script powering the Widget can be found at http://bloggergadgets.googlecode.com/svn/trunk/recentposts.js or http://bloggergadgets.googlecode.com/files/recentposts_orig.js
+
+I will update a compressed version very soon.
